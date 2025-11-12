@@ -3,4 +3,5 @@ project(cos201_lab)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cos201_lab main.cpp)
+add_executable(cos201_lab main.cpp
+        "Student Record System.c")
